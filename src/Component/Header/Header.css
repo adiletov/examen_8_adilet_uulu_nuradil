@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    background: #282c34;
+    color: white;
+    font-size: 18px;
+}
+.nav-link{
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+.nav-link.active{
+    border-bottom: 1px solid white;
+}
+.link{
+    display: flex;
+}

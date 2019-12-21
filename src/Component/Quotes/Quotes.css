@@ -1,0 +1,29 @@
+.content{
+    display: flex;
+}
+.said-bar{
+    background: #cccccc;
+    width: 20%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 50px;
+}
+.said-bar li{
+    list-style: none;
+}
+
+.said-bar a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.oneCard{
+    width: 60%;
+    padding: 70px;
+
+}
+.card{
+    font-size: 20px;
+}

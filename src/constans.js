@@ -1,0 +1,1 @@
+export const Categories = ["Star Wars", "Famous people", "Saying", "Hunour", "Motivational" ];
